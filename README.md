@@ -1,5 +1,5 @@
-# Yoga 
+# Yoga Instructor 
 
 ![image 2](/assets/images/image2.png)
 
-Classes
+Types of Classes
