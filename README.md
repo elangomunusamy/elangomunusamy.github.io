@@ -4,4 +4,9 @@
 
 ![image 2](/assets/images/image2.png)
 
-# Specialization
+## ***Specialization***
+1. Yoga
+    1. Beginner's yoga
+    2. Intermediate yoga
+    3. Advanced yoga
+
