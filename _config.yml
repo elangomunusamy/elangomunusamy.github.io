@@ -3,4 +3,9 @@ description: .
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
+
 # Welcome to Beautiful Jekyll!
+# --- List of links in the navigation bar --- #
+
+navbar-links:
+  About Me: "aboutme"
