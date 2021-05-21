@@ -1,6 +1,5 @@
 # Yoga Instructor 
-## 200 hour certified
-### 20 years experience
+## 200 hour certified & 20 years of teaching
 
 ![image 2](/assets/images/image2.png)
 
