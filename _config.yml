@@ -1,4 +1,3 @@
-
 # Site settings
 title: Sheeba Brema & Shehanaaz (Future Yoga Teacher)
 description: .
@@ -6,3 +5,15 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
 
+# Team names, titles and social links
+people:
+- name: Sheeba Brema
+  pic: 1
+  position: Lead Instructor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
